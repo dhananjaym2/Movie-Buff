@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Movie Buff</string>
+
+    <string name="Loading">Loading&#8230;</string>
+    <string name="PleaseConnectToAWorkingInternetConnection">Please connect to a working internet connection!</string>
+    <string name="WhoopsThereWasAnErrorPleaseTryAgainLater">Whoops! There was an error. Please try again later.</string>
+    <string name="UnableToConnectToServer">We are unable to connect to the server! Please try again a bit later.</string>
+    <string name="Retry">Retry</string>
+    <string name="Exit">Exit</string>
+
 </resources>
