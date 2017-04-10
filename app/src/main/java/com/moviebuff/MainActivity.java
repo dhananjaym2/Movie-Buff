@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity implements AlertDialog_OnCli
                         BEARER_WITH_ACCESS_TOKEN_Authorization_HEADER_VALUE);
                 return mapForHeader;
             }
-        }; //TODO add header Authorization: Bearer AppConstants.TMDB_API_ACCESS_TOKEN
+        };
 
         if (AppUtil.isInternetConnectionAvailable(this)) {
 
